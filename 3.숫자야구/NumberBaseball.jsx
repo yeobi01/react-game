@@ -21,7 +21,7 @@ class NumberBaseball extends Component {
     };
 
     fruits = [
-        { fruit: '사과', taste: '맛있다' },
+        { fruit: '사과', taste: '맛있다0' },
         { fruit: '사과', taste: '맛있다1' },
         { fruit: '사과', taste: '맛있다2' },
         { fruit: '사과', taste: '맛있다3' },
